@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/minim/library/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/minim/library/jsminim.jar"/>
+	<classpathentry kind="lib" path="lib/minim/library/minim.jar"/>
+	<classpathentry kind="lib" path="lib/minim/library/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/minim/library/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="lib/minim/library/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/core.jar" sourcepath="lib/processing-core-4.2019-11-11/src/core-src.zip"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/gluegen-rt-natives-linux-aarch64.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/gluegen-rt-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/gluegen-rt-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/jogl-all.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/jogl-all-natives-linux-aarch64.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/jogl-all-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/jogl-all-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="lib/processing-core-4.2019-11-11/lib/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="lib/processing-pdf-3.0.2/lib/itext.jar"/>
+	<classpathentry kind="lib" path="lib/processing-pdf-3.0.2/lib/pdf.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
